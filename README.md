@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @carolzzy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 oi sou a carolina
+- 👀 estou interessado em aprender novas linguagens;
+- 🌱 estou fazendo cursos online no Alura;
+- 📫 meu e-mail para contato é @carolina.aparecidavieirados.santos@escola.pr.gov.br
 
-<!---
-carolzzy/carolzzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
